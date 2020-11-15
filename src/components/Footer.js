@@ -9,7 +9,7 @@ function Footer() {
         <footer className="mt-5">
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
-                    <Col className="p-0" md={3} sm={12}>
+                    <Col className="p-0" md={3} sm={12} className="home_social">
                         <a href="https://www.linkedin.com/in/alex-skudrovskis-83204159/">
                             <img
                             src="https://raw.githubusercontent.com/alsricha/React-Portfolio/master/src/assets/images/linkedin-logo.png"
@@ -21,9 +21,8 @@ function Footer() {
                         <a href="https://github.com/alsricha">
                             <img
                             src="https://raw.githubusercontent.com/alsricha/React-Portfolio/master/src/assets/images/github-logo.png"
-                            width="80
-                            px"
-                            height="25px"
+                            height="30pxpx"
+                            width="32px"
                             title="Find Me Github"
                             alt="Find Me on Github"
                             />
