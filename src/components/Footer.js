@@ -12,13 +12,20 @@ function Footer() {
                     <Col className="p-0" md={3} sm={12}>
                         <a href="https://www.linkedin.com/in/alex-skudrovskis-83204159/">
                             <img
-                            src="./assets/images/linkedin-logo.png"
+                            src="https://raw.githubusercontent.com/alsricha/React-Portfolio/master/src/assets/images/linkedin-logo.png"
                             width="25px"
                             title="Find Me on Linkedin"
                             alt="Find Me on Linkedin"
                             />
                         </a>
-                        
+                        <a href="https://github.com/alsricha">
+                            <img
+                            src="https://raw.githubusercontent.com/alsricha/React-Portfolio/master/src/assets/images/github-logo.png"
+                            width="25px"
+                            title="Find Me Github"
+                            alt="Find Me on Github"
+                            />
+                        </a>
                     </Col>
                     <Col className="p-0 d-flex justify-content-center" md={3}>
                     <p>
