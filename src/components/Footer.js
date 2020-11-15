@@ -10,15 +10,24 @@ function Footer() {
             <Container fluid={true}>
                 <Row className="border-top justify-content-between p-3">
                     <Col className="p-0" md={3} sm={12}>
-                        
+                        <a href="https://www.linkedin.com/in/alex-skudrovskis-83204159/">
+                            <img
+                            src="./assets/images/linkedin-logo.png"
+                            width="25px"
+                            title="Find Me on Linkedin"
+                            alt="Find Me on Linkedin"
+                            />
+                        </a>
                         
                     </Col>
-                    <Col className="p-0 d-flex justify-content-end" md={3}>
+                    <Col className="p-0 d-flex justify-content-center" md={3}>
                     <p>
                         Copyright &copy; 2020
                     </p>
+                    </Col>
+                    <Col className="p-0 d-flex justify-content-end" md={3}>
                     <p>
-                        Created By Alex Skudrovskis
+                        Created By Alex skudrovskis
                     </p>
                     </Col>
                 </Row>
