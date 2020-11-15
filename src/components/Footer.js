@@ -21,7 +21,9 @@ function Footer() {
                         <a href="https://github.com/alsricha">
                             <img
                             src="https://raw.githubusercontent.com/alsricha/React-Portfolio/master/src/assets/images/github-logo.png"
-                            width="25px"
+                            width="80
+                            px"
+                            height="25px"
                             title="Find Me Github"
                             alt="Find Me on Github"
                             />
