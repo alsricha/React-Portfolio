@@ -101,7 +101,7 @@ class ContactPage extends React.Component {
                         {this.state.emailSent === false && <p className="d-inline err-msg">Email Not Sent</p>}
                     </Form>
                     <br></br>
-                    <p>See my <a href="./Assets/Documents/Alex_Skudrovskis_Resume.pdf" class="home_social-icon" download>Resume</a></p>
+                    <p>See my <a href="https://github.com/alsricha/React-Portfolio/blob/master/src/assets/Documents/Alex_Skudrovskis_Resume.pdf" class="home_social-icon" download>Resume</a></p>
                 </Content>
             </div>
         );
